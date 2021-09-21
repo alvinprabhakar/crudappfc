@@ -1,0 +1,28 @@
+.AddPost{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+
+#addpostbutton{
+    background-color: green;
+    color: whitesmoke;
+}
+
+.actions{
+    display: flex;
+    gap: 1rem;
+}
+
+#view{
+    background-color: lightgreen;
+}
+
+#update{
+    background-color: lightskyblue;
+}
+
+#delete{
+    background-color:red;
+}

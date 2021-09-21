@@ -1,0 +1,42 @@
+.userinfo{
+    border: 1px solid black;
+    margin: 0.5rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.userHeading{
+    text-align: center;
+    font-weight: bold;
+    color: salmon;
+}
+
+.postinfo{
+    margin: 0.5rem;
+    padding: 1rem;
+}
+
+.postHeading{
+    
+    font-weight: bold;
+    color: salmon;
+}
+
+.commentsinfo{
+    margin: 0.5rem;
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.commentHeading{
+    margin: 0.5rem;
+    padding: 1rem;
+    font-weight: bold;
+    color: salmon;
+}
+
+.comments{
+    display: flex;
+    gap: 3rem;
+}

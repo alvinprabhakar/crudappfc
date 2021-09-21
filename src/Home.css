@@ -1,0 +1,33 @@
+.appName {
+    color: cadetblue;
+    margin-left: 5%;
+    font-size: 8rem;
+}
+
+.libraryName{
+    margin-left: 5%;
+    margin-top: 6%;
+    margin-bottom: 4%;
+    font-size: 5rem;
+    color:lightcoral
+}
+
+.buttonsName{
+    margin-left: 5%;
+    display: flex;
+    column-gap: 2rem;
+}
+
+.buttons{
+    margin-right: 2%;
+    padding: 2%;
+    font-size: 2rem;
+    border-radius: 5%;
+    box-shadow: 0 2px #999;
+    background-color: turquoise;
+   
+}
+
+.buttons:hover{
+    background-color: teal;
+}
