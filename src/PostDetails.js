@@ -41,6 +41,7 @@ function PostDetails({match}){
 
     useEffect(() => {
         getDetails();
+         // eslint-disable-next-line react-hooks/exhaustive-deps
     },[]);
 
 
